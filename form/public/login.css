@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    display: grid;
+    place-items: center;
+    background-color: #1dd1a1;
+    
+}
+
+h1{
+    margin-top: 20vh;
+    margin-bottom: 30px;
+
+}
+input{
+    font-size: 1rem;
+    width: 300px;
+    padding: 10px 15px; 
+    margin: 30px 10px 10px 10px;
+}
+.sub{
+    background-color: #1dd1a1;
+    cursor: pointer;
+}
+
+form{
+    text-align: center;
+    padding: 10px 20px;
+    background-color:#fff;
+}
